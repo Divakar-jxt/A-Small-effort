@@ -1,7 +1,2 @@
-# Happy Birthday
-
-Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
-
-An easy to deploy, Happy Birthday animation design TEMPLATE.
-
-View Deployments [here](https://github.com/Rishabh04-02/happy-birthday/deployments)
+Hey, I know I’m sneaking in this wish a little late—but maybe that just makes it more special. I hope your day was filled with laughter, love, and your favorite people. You deserve all that and more. Happy Birthday, once again 😊
+<3
